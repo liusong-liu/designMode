@@ -34,5 +34,3 @@ build/
 
 ### java ###
 *.class
-.mvn
-.idea
